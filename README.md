@@ -8,7 +8,7 @@
 
 ### 🌱 I’m currently learning:
 - 5G network fundamentals
-- Implementing Embedded Real-Time Operating Systems (RTOS) on STM32
+- Implementing Embedded Real-Time Operating Systems (RTOS) on STM32 (Coming soon)
 - Home projects with Raspberry Pi and EtherCAT (Coming soon)
 
 ### 💞️ I’m looking to collaborate on:
