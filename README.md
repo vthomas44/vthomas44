@@ -18,7 +18,7 @@
 
 ### 📫 How to reach me:
 - Email: varghesethomas.mec@gmail.com
-- LinkedIn: [Varghese Thomas](https://www.linkedin.com/in/vthomas44)
+- LinkedIn: [Varghese Thomas](linkedin.com/in/varghese-thomas-mec)
 
 ### 😄 Pronouns:
 - He/Him
